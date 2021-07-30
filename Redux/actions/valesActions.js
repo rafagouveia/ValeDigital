@@ -1,0 +1,6 @@
+export const ADD_VALE = "ADD_VALE"
+export const GET_VALE = "GET_VALE"
+export const REMOVE_VALE = "REMOVE_VALE"
+export const UPDATE_VALE = "UPDATE_VALE"
+export const ADD_PRODUTO = "ADD_PRODUTO"
+export const GET_PRODUTO = "GET_PRODUTO"
